@@ -94,8 +94,8 @@ Final Anomaly Score
 ### Clone Repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/hrishikesh-bhatia/MLSEMPROJECT
+cd MLSEMPROJECT
 ```
 
 ---
